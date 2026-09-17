@@ -1,0 +1,1 @@
+v1/v2 exploration: two architectures (hex hybrid, full-print cylinder), Path L all-sheet variant, and the joint registry that found the bugs. Scripts here import ../../src/lib.py as build_moss_pole; kept for history, not maintained.
