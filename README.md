@@ -48,7 +48,7 @@ python build_*.py           # regenerate ../stl
 python verify_*.py          # assert geometry; exit 1 on failure
 ```
 
-Dependencies: `pip install trimesh shapely manifold3d numpy`
+Dependencies: `pip install trimesh shapely manifold3d numpy scipy networkx rtree` (`ezdxf` too for projects that write DXF)
 
 ## Projects
 
@@ -56,3 +56,4 @@ Dependencies: `pip install trimesh shapely manifold3d numpy`
 |---|---|---|
 | [`nord-grand-monitor-mount`](projects/nord-grand-monitor-mount/) — post-and-head studio-monitor mount for the Nord Grand's factory bosses | LulzBot Mini 2, t-glase | v8, printing |
 | [`espresso-machine-feet-iberital-lanna`](projects/espresso-machine-feet-iberital-lanna/) — bolt-through replacement feet, four outline variants | LulzBot, PETG | V14, in service |
+| [`moss-pole`](projects/moss-pole/) — modular self-watering honeycomb moss pole, four threaded parts; hybrid laser-lattice variant alongside | LulzBot Mini 2 / TAZ 2, INOVA-1800 | v3, printing |
